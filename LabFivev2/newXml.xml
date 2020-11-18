@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Workers>
+  <Worker>
+    <id>25</id>
+    <Name>abc</Name>
+    <CreationDate>2020-11-18T11:21:34.450</CreationDate>
+    <Salary>42.0</Salary>
+    <StartDate>2016-08-16</StartDate>
+    <EndDate>1986-04-08T12:30</EndDate>
+    <Status>RECOMMENDED_FOR_PROMOTION</Status>
+    <Coordinates>
+      <x>200</x>
+      <y>100</y>
+    </Coordinates>
+    <Organization>
+      <EmployeesCount>123</EmployeesCount>
+      <Type>PUBLIC</Type>
+      <Address>
+        <ZipCode>street</ZipCode>
+        <Street>zipcode</Street>
+        <Location>
+          <X>1.0</X>
+          <Y>2</Y>
+          <Name>locName</Name>
+        </Location>
+      </Address>
+    </Organization>
+  </Worker>
+  <Worker>
+    <id>28</id>
+    <Name>abc</Name>
+    <CreationDate>2020-11-18T11:21:34.451</CreationDate>
+    <Salary>42.0</Salary>
+    <StartDate>2016-08-16</StartDate>
+    <EndDate>1986-04-08T12:30</EndDate>
+    <Status>RECOMMENDED_FOR_PROMOTION</Status>
+    <Coordinates>
+      <x>200</x>
+      <y>100</y>
+    </Coordinates>
+    <Organization/>
+  </Worker>
+</Workers>
